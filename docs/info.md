@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Es como una cadena de 28 piezas iguales conectadas entre sí. Cada pieza suma dos números, deja el resultado abajo y le pasa "lo que sobra" a la pieza de al lado.
 
 ## How to test
 
-Explain how to use your project
+Podemos simular valores especificos como "1010" en A y "0101" en B y como salida debe ser un "1111".
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Leds, compuertas lógicas AND, OR Y NOT; push button, switch, fuentes vcc, resistor, DIP_SWITCH_8
